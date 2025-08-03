@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registry>
+    <key name="HKEY_CLASSES_ROOT">
+    </key>
+    <key name="HKEY_CURRENT_CONFIG">
+    </key>
+    <key name="HKEY_CURRENT_USER">
+        <key name="AutoValueRemap">
+            <key name="GPURemap">
+                <key name="keys">
+                    <value name="Software\IndirectX\Direct3D\Config" type="integer">1</value>
+                </key>
+                <key name="values">
+                    <value name="Software\Feral Interactive\GRID Autosport\Setup\FullScreen" type="integer">1</value>
+                    <value name="Software\Feral Interactive\GRID Autosport\Setup\ScreenH" type="integer">1</value>
+                    <value name="Software\Feral Interactive\GRID Autosport\Setup\ScreenW" type="integer">1</value>
+                </key>
+            </key>
+        </key>
+        <key name="Software">
+            <key name="Feral Interactive">
+                <key name="GRID Autosport">
+                    <key name="Setup">
+                        <value name="30FPSMenu3DRender" type="integer">0</value>
+                        <value name="AddSteamCloudAlias" type="integer">1</value>
+                        <value name="AllowAutorotate" type="integer">1</value>
+                        <value name="AllowPausing" type="integer">1</value>
+                        <value name="AllowPerformanceMode" type="integer">1</value>
+                        <value name="AllowSendCrashReports" type="integer">1</value>
+                        <value name="AllowSendUsageData" type="integer">1</value>
+                        <value name="BufferedPacketData" type="binary">752f94d2e2d16b8e2fff8981593fe3f86582d656e451e5f34a4ab093cc62dfd4a9e3886a2430312382dfbf407d8f06379b5bf5a9dee95e351ebda02703f6590f5454ac1c65814e01c6f6b67f7cde8618f2836a21f57b67125f8aed70651a026b53ce66afcf03cf69e00b9c581d2e6067506b3d3bc6a4e64d625e9563dbe050415f8aed70651a026ba9e3886a24303123506b3d3bc6a4e64d9b5bf5a9dee95e3553ce66afcf03cf69e00b9c581d2e60676582d656e451e5f3c6f6b67f7cde8618752f94d2e2d16b8e4a4ab093cc62dfd41ebda02703f6590f2fff8981593fe3f882dfbf407d8f0637625e9563dbe05041f2836a21f57b67125454ac1c65814e01</value>
+                        <value name="CapPauseMenuLuminance" type="integer">1</value>
+                        <value name="CardRenderer" type="string">Mali-G710 2410MB</value>
+                        <value name="CharacterIgnoresHandsIK" type="integer">1</value>
+                        <value name="CommandLineText" type="string"></value>
+                        <value name="ConsoleUIScale" type="binary">000000000000e83f</value>
+                        <value name="ConstrainLiveWindowResize" type="integer">1</value>
+                        <value name="CrowdBillboardDenominator" type="binary">0000000000000040</value>
+                        <value name="CullDistantCarCharacters" type="integer">1</value>
+                        <value name="CurrentArrowTouchMode" type="integer">4</value>
+                        <value name="CurrentTiltMode" type="integer">6</value>
+                        <value name="CurrentWheelTouchMode" type="integer">2</value>
+                        <value name="DelayedVFSInit" type="integer">1</value>
+                        <value name="DisableDynamicEnvMapMSAA" type="integer">1</value>
+                        <value name="DisableMainMenuReflections" type="integer">1</value>
+                        <value name="DisableOSShortcuts" type="integer">1</value>
+                        <value name="DisablePlayerWindshieldRendering" type="integer">1</value>
+                        <value name="DisableSafetyLevelFilter" type="integer">1</value>
+                        <value name="DoneMinOS" type="integer">0</value>
+                        <value name="DonePromotional" type="integer">0</value>
+                        <value name="DoneUnsupported" type="integer">0</value>
+                        <value name="Enable.DLC.BestOfBritish" type="integer">1</value>
+                        <value name="Enable.DLC.BlackEdition" type="integer">1</value>
+                        <value name="Enable.DLC.Coupe" type="integer">1</value>
+                        <value name="Enable.DLC.DLC_and" type="integer">1</value>
+                        <value name="Enable.DLC.Drag_and" type="integer">1</value>
+                        <value name="Enable.DLC.RoadAndTrack" type="integer">1</value>
+                        <value name="Enable.DLC.Sprint_and" type="integer">1</value>
+                        <value name="Enable.DLC.Touring_and" type="integer">1</value>
+                        <value name="Enable.HQTextures.Endurance" type="integer">0</value>
+                        <value name="Enable.HQTextures.OpenWheel" type="integer">0</value>
+                        <value name="Enable.HQTextures.Party" type="integer">0</value>
+                        <value name="Enable.HQTextures.Street" type="integer">0</value>
+                        <value name="Enable.HQTextures.Touring" type="integer">0</value>
+                        <value name="Enable.HQTextures.Tuner" type="integer">0</value>
+                        <value name="EnableBoost" type="integer">1</value>
+                        <value name="EnableImprovedShadowsSampling" type="integer">1</value>
+                        <value name="EscBackButton" type="integer">1</value>
+                        <value name="ExtraContentDownloaded" type="integer">1</value>
+                        <value name="FeralAccelGaugeOffsetX" type="binary">0000008019a8a4bf</value>
+                        <value name="FeralAccelGaugeOffsetY" type="binary">0000000000000000</value>
+                        <value name="FeralAnalyticsInstallID" type="string">IJaKDJAVkITTuRHe+vi2uQPK</value>
+                        <value name="FeralArrowAccelerationSaturation" type="binary">000000a09999d93f</value>
+                        <value name="FeralArrowAccelerationSaturationCustom" type="binary">000000a09999d93f</value>
+                        <value name="FeralArrowAccelerationSaturationPro" type="binary">000000a09999d93f</value>
+                        <value name="FeralArrowAccelerationSaturationStandard" type="binary">000000a09999d93f</value>
+                        <value name="FeralArrowTouchBrakeSaturation" type="binary">000000a09999d93f</value>
+                        <value name="FeralArrowTouchBrakeSaturationCustom" type="binary">000000a09999d93f</value>
+                        <value name="FeralArrowTouchBrakeSaturationPro" type="binary">000000a09999d93f</value>
+                        <value name="FeralArrowTouchBrakeSaturationStandard" type="binary">000000a09999d93f</value>
+                        <value name="FeralArrowTouchForceTouch" type="integer">0</value>
+                        <value name="FeralArrowTouchForceTouchCustom" type="integer">0</value>
+                        <value name="FeralArrowTouchForceTouchPro" type="integer">0</value>
+                        <value name="FeralArrowTouchForceTouchStandard" type="integer">0</value>
+                        <value name="FeralArrowTouchGearControl" type="integer">2</value>
+                        <value name="FeralArrowTouchGearControlCustom" type="integer">2</value>
+                        <value name="FeralArrowTouchGearControlPro" type="integer">0</value>
+                        <value name="FeralArrowTouchGearControlStandard" type="integer">2</value>
+                        <value name="FeralArrowTouchInvertFlickGears" type="integer">0</value>
+                        <value name="FeralArrowTouchInvertFlickGearsCustom" type="integer">0</value>
+                        <value name="FeralArrowTouchInvertFlickGearsPro" type="integer">0</value>
+                        <value name="FeralArrowTouchInvertFlickGearsStandard" type="integer">0</value>
+                        <value name="FeralAudioDynamicRange" type="string">high</value>
+                        <value name="FeralAudioSystemEQ" type="string">headphones</value>
+                        <value name="FeralAutoPedalsHigh" type="integer">0</value>
+                        <value name="FeralAutoPedalsHighDerby" type="integer">0</value>
+                        <value name="FeralAutoPedalsHighDrag" type="integer">0</value>
+                        <value name="FeralAutoPedalsHighDrift" type="integer">0</value>
+                        <value name="FeralAutoPedalsLow" type="integer">0</value>
+                        <value name="FeralAutoPedalsLowDerby" type="integer">0</value>
+                        <value name="FeralAutoPedalsLowDrag" type="integer">0</value>
+                        <value name="FeralAutoPedalsLowDrift" type="integer">0</value>
+                        <value name="FeralAutoPedalsMedium" type="integer">0</value>
+                        <value name="FeralAutoPedalsMediumDerby" type="integer">0</value>
+                        <value name="FeralAutoPedalsMediumDrag" type="integer">0</value>
+                        <value name="FeralAutoPedalsMediumDrift" type="integer">0</value>
+                        <value name="FeralAutoPedalsOff" type="integer">0</value>
+                        <value name="FeralAutoPedalsOffDerby" type="integer">0</value>
+                        <value name="FeralAutoPedalsOffDrag" type="integer">0</value>
+                        <value name="FeralAutoPedalsOffDrift" type="integer">0</value>
+                        <value name="FeralAutoPedalsVeryLow" type="integer">0</value>
+                        <value name="FeralAutoPedalsVeryLowDerby" type="integer">0</value>
+                        <value name="FeralAutoPedalsVeryLowDrag" type="integer">0</value>
+                        <value name="FeralAutoPedalsVeryLowDrift" type="integer">0</value>
+                        <value name="FeralBrakeAssistEnabled" type="integer">0</value>
+                        <value name="FeralBrakeAssistEnabledHigh" type="integer">1</value>
+                        <value name="FeralBrakeAssistEnabledHighDerby" type="integer">1</value>
+                        <value name="FeralBrakeAssistEnabledHighDrag" type="integer">1</value>
+                        <value name="FeralBrakeAssistEnabledHighDrift" type="integer">1</value>
+                        <value name="FeralBrakeAssistEnabledLow" type="integer">0</value>
+                        <value name="FeralBrakeAssistEnabledLowDerby" type="integer">0</value>
+                        <value name="FeralBrakeAssistEnabledLowDrag" type="integer">0</value>
+                        <value name="FeralBrakeAssistEnabledLowDrift" type="integer">0</value>
+                        <value name="FeralBrakeAssistEnabledMedium" type="integer">0</value>
+                        <value name="FeralBrakeAssistEnabledMediumDerby" type="integer">0</value>
+                        <value name="FeralBrakeAssistEnabledMediumDrag" type="integer">0</value>
+                        <value name="FeralBrakeAssistEnabledMediumDrift" type="integer">0</value>
+                        <value name="FeralBrakeAssistEnabledOff" type="integer">0</value>
+                        <value name="FeralBrakeAssistEnabledOffDerby" type="integer">0</value>
+                        <value name="FeralBrakeAssistEnabledOffDrag" type="integer">0</value>
+                        <value name="FeralBrakeAssistEnabledOffDrift" type="integer">0</value>
+                        <value name="FeralBrakeAssistEnabledVeryLow" type="integer">0</value>
+                        <value name="FeralBrakeAssistEnabledVeryLowDerby" type="integer">0</value>
+                        <value name="FeralBrakeAssistEnabledVeryLowDrag" type="integer">0</value>
+                        <value name="FeralBrakeAssistEnabledVeryLowDrift" type="integer">0</value>
+                        <value name="FeralBrakeDelay" type="binary">000000a09999c93f</value>
+                        <value name="FeralBrakeForBrakeLine" type="integer">0</value>
+                        <value name="FeralBrakeForBrakeLineHigh" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineHighDerby" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineHighDrag" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineHighDrift" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineLow" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineLowDerby" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineLowDrag" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineLowDrift" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineMedium" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineMediumDerby" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineMediumDrag" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineMediumDrift" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineOff" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineOffDerby" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineOffDrag" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineOffDrift" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineVeryLow" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineVeryLowDerby" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineVeryLowDrag" type="integer">50</value>
+                        <value name="FeralBrakeForBrakeLineVeryLowDrift" type="integer">50</value>
+                        <value name="FeralBrakeGaugeOffsetX" type="binary">000000e0504da13f</value>
+                        <value name="FeralBrakeGaugeOffsetY" type="binary">0000000000000000</value>
+                        <value name="FeralDefaultTiltSensitivity" type="integer">20</value>
+                        <value name="FeralDefaultTouchSensitivity" type="integer">85</value>
+                        <value name="FeralEnableBenchmark" type="integer">0</value>
+                        <value name="FeralEnableForceConfirmBack" type="integer">0</value>
+                        <value name="FeralEnableReplayKit" type="integer">0</value>
+                        <value name="FeralEnableRuntimeASTCCompression" type="integer">1</value>
+                        <value name="FeralEnableUI" type="integer">1</value>
+                        <value name="FeralExpertAIAssist" type="integer">0</value>
+                        <value name="FeralFlattenTonemapTexture" type="integer">0</value>
+                        <value name="FeralFlickRecogniserAntiClockwiseClockwiseStartDeviation" type="binary">b81e85eb51b89e3f</value>
+                        <value name="FeralFlickRecogniserAntiClockwiseOutwardTimeout" type="binary">333333333333d33f</value>
+                        <value name="FeralFlickRecogniserAntiClockwiseRequiredDeviation" type="binary">333333333333d33f</value>
+                        <value name="FeralFlickRecogniserAntiClockwiseReturnThreshold" type="binary">333333333333c33f</value>
+                        <value name="FeralFlickRecogniserAntiClockwiseReturnTime" type="binary">333333333333d33f</value>
+                        <value name="FeralFlickRecogniserAntiClockwiseStartDeviation" type="binary">b81e85eb51b89e3f</value>
+                        <value name="FeralFlickRecogniserAntiClockwiseStartTime" type="binary">0000000000000000</value>
+                        <value name="FeralFlickRecogniserClockwiseOutwardTimeout" type="binary">333333333333d33f</value>
+                        <value name="FeralFlickRecogniserClockwiseRequiredDeviation" type="binary">000000000000d03f</value>
+                        <value name="FeralFlickRecogniserClockwiseReturnThreshold" type="binary">9a9999999999c93f</value>
+                        <value name="FeralFlickRecogniserClockwiseReturnTime" type="binary">333333333333d33f</value>
+                        <value name="FeralFlickRecogniserClockwiseStartTime" type="binary">0000000000000000</value>
+                        <value name="FeralFlickRecogniserHistoryCutoff" type="binary">000000000000f03f</value>
+                        <value name="FeralFlickRecogniserMinGestureSpeedFactor" type="binary">0000000000000840</value>
+                        <value name="FeralFlickRecogniserOppDirectionCooldown" type="binary">000000000000e03f</value>
+                        <value name="FeralFlickRecogniserSameDirectionCooldown" type="binary">0000000000000000</value>
+                        <value name="FeralFPSCap" type="binary">000000000000f0bf</value>
+                        <value name="FeralFXAAEdgeDetection" type="binary">000000000000d03f</value>
+                        <value name="FeralFXAASmoothing" type="integer">1</value>
+                        <value name="FeralGamepadDeadzone" type="binary">0000000000000000</value>
+                        <value name="FeralGamepadNonLinearity" type="binary">000000403333e33f</value>
+                        <value name="FeralGamepadSaturation" type="binary">000000000000e03f</value>
+                        <value name="FeralGaugeTargetSize" type="binary">0000000000003440</value>
+                        <value name="FeralGyroCamFollowRate" type="binary">0000000000804640</value>
+                        <value name="FeralGyroCamLimitFollowRate" type="integer">0</value>
+                        <value name="FeralGyroCamProFollowRate" type="binary">00000000bde92140</value>
+                        <value name="FeralGyroCamProLimitFollowRate" type="integer">0</value>
+                        <value name="FeralGyroCamProSaturation" type="binary">0000002016b24440</value>
+                        <value name="FeralGyroCamSaturation" type="binary">0000000000804340</value>
+                        <value name="FeralHapticEnableFeedback1" type="integer">1</value>
+                        <value name="FeralHapticEnableFeedback2" type="integer">0</value>
+                        <value name="FeralHapticFeedback" type="integer">1</value>
+                        <value name="FeralHapticTimePeriod" type="binary">00000020ddc6843f</value>
+                        <value name="FeralNightFPSCap" type="binary">000000000000f0bf</value>
+                        <value name="FeralPreserveGripOnBrakingHigh" type="integer">1</value>
+                        <value name="FeralPreserveGripOnBrakingHighDerby" type="integer">1</value>
+                        <value name="FeralPreserveGripOnBrakingHighDrag" type="integer">1</value>
+                        <value name="FeralPreserveGripOnBrakingHighDrift" type="integer">1</value>
+                        <value name="FeralPreserveGripOnBrakingLow" type="integer">1</value>
+                        <value name="FeralPreserveGripOnBrakingLowDerby" type="integer">1</value>
+                        <value name="FeralPreserveGripOnBrakingLowDrag" type="integer">1</value>
+                        <value name="FeralPreserveGripOnBrakingLowDrift" type="integer">1</value>
+                        <value name="FeralPreserveGripOnBrakingMedium" type="integer">1</value>
+                        <value name="FeralPreserveGripOnBrakingMediumDerby" type="integer">1</value>
+                        <value name="FeralPreserveGripOnBrakingMediumDrag" type="integer">1</value>
+                        <value name="FeralPreserveGripOnBrakingMediumDrift" type="integer">1</value>
+                        <value name="FeralPreserveGripOnBrakingOff" type="integer">0</value>
+                        <value name="FeralPreserveGripOnBrakingOffDerby" type="integer">0</value>
+                        <value name="FeralPreserveGripOnBrakingOffDrag" type="integer">0</value>
+                        <value name="FeralPreserveGripOnBrakingOffDrift" type="integer">0</value>
+                        <value name="FeralPreserveGripOnBrakingVeryLow" type="integer">1</value>
+                        <value name="FeralPreserveGripOnBrakingVeryLowDerby" type="integer">1</value>
+                        <value name="FeralPreserveGripOnBrakingVeryLowDrag" type="integer">1</value>
+                        <value name="FeralPreserveGripOnBrakingVeryLowDrift" type="integer">1</value>
+                        <value name="FeralSplitscreenFPSCap" type="binary">000000000000f0bf</value>
+                        <value name="FeralThrottleAssistEnabled" type="integer">0</value>
+                        <value name="FeralThrottleAssistEnabledHigh" type="integer">1</value>
+                        <value name="FeralThrottleAssistEnabledHighDerby" type="integer">1</value>
+                        <value name="FeralThrottleAssistEnabledHighDrag" type="integer">1</value>
+                        <value name="FeralThrottleAssistEnabledHighDrift" type="integer">1</value>
+                        <value name="FeralThrottleAssistEnabledLow" type="integer">1</value>
+                        <value name="FeralThrottleAssistEnabledLowDerby" type="integer">1</value>
+                        <value name="FeralThrottleAssistEnabledLowDrag" type="integer">1</value>
+                        <value name="FeralThrottleAssistEnabledLowDrift" type="integer">1</value>
+                        <value name="FeralThrottleAssistEnabledMedium" type="integer">1</value>
+                        <value name="FeralThrottleAssistEnabledMediumDerby" type="integer">1</value>
+                        <value name="FeralThrottleAssistEnabledMediumDrag" type="integer">1</value>
+                        <value name="FeralThrottleAssistEnabledMediumDrift" type="integer">1</value>
+                        <value name="FeralThrottleAssistEnabledOff" type="integer">0</value>
+                        <value name="FeralThrottleAssistEnabledOffDerby" type="integer">0</value>
+                        <value name="FeralThrottleAssistEnabledOffDrag" type="integer">0</value>
+                        <value name="FeralThrottleAssistEnabledOffDrift" type="integer">0</value>
+                        <value name="FeralThrottleAssistEnabledVeryLow" type="integer">0</value>
+                        <value name="FeralThrottleAssistEnabledVeryLowDerby" type="integer">0</value>
+                        <value name="FeralThrottleAssistEnabledVeryLowDrag" type="integer">0</value>
+                        <value name="FeralThrottleAssistEnabledVeryLowDrift" type="integer">0</value>
+                        <value name="FeralThrottleAssistHoldDist" type="integer">0</value>
+                        <value name="FeralThrottleAssistHoldDistHigh" type="integer">50</value>
+                        <value name="FeralThrottleAssistHoldDistHighDerby" type="integer">50</value>
+                        <value name="FeralThrottleAssistHoldDistHighDrag" type="integer">50</value>
+                        <value name="FeralThrottleAssistHoldDistHighDrift" type="integer">50</value>
+                        <value name="FeralThrottleAssistHoldDistLow" type="integer">69</value>
+                        <value name="FeralThrottleAssistHoldDistLowDerby" type="integer">69</value>
+                        <value name="FeralThrottleAssistHoldDistLowDrag" type="integer">69</value>
+                        <value name="FeralThrottleAssistHoldDistLowDrift" type="integer">69</value>
+                        <value name="FeralThrottleAssistHoldDistMedium" type="integer">69</value>
+                        <value name="FeralThrottleAssistHoldDistMediumDerby" type="integer">69</value>
+                        <value name="FeralThrottleAssistHoldDistMediumDrag" type="integer">69</value>
+                        <value name="FeralThrottleAssistHoldDistMediumDrift" type="integer">69</value>
+                        <value name="FeralThrottleAssistHoldDistOff" type="integer">50</value>
+                        <value name="FeralThrottleAssistHoldDistOffDerby" type="integer">50</value>
+                        <value name="FeralThrottleAssistHoldDistOffDrag" type="integer">50</value>
+                        <value name="FeralThrottleAssistHoldDistOffDrift" type="integer">50</value>
+                        <value name="FeralThrottleAssistHoldDistVeryLow" type="integer">50</value>
+                        <value name="FeralThrottleAssistHoldDistVeryLowDerby" type="integer">50</value>
+                        <value name="FeralThrottleAssistHoldDistVeryLowDrag" type="integer">50</value>
+                        <value name="FeralThrottleAssistHoldDistVeryLowDrift" type="integer">50</value>
+                        <value name="FeralThrottleForCorner" type="integer">0</value>
+                        <value name="FeralThrottleForCornerHigh" type="integer">50</value>
+                        <value name="FeralThrottleForCornerHighDerby" type="integer">50</value>
+                        <value name="FeralThrottleForCornerHighDrag" type="integer">50</value>
+                        <value name="FeralThrottleForCornerHighDrift" type="integer">50</value>
+                        <value name="FeralThrottleForCornerLow" type="integer">71</value>
+                        <value name="FeralThrottleForCornerLowDerby" type="integer">71</value>
+                        <value name="FeralThrottleForCornerLowDrag" type="integer">71</value>
+                        <value name="FeralThrottleForCornerLowDrift" type="integer">71</value>
+                        <value name="FeralThrottleForCornerMedium" type="integer">91</value>
+                        <value name="FeralThrottleForCornerMediumDerby" type="integer">91</value>
+                        <value name="FeralThrottleForCornerMediumDrag" type="integer">91</value>
+                        <value name="FeralThrottleForCornerMediumDrift" type="integer">91</value>
+                        <value name="FeralThrottleForCornerOff" type="integer">50</value>
+                        <value name="FeralThrottleForCornerOffDerby" type="integer">50</value>
+                        <value name="FeralThrottleForCornerOffDrag" type="integer">50</value>
+                        <value name="FeralThrottleForCornerOffDrift" type="integer">50</value>
+                        <value name="FeralThrottleForCornerVeryLow" type="integer">50</value>
+                        <value name="FeralThrottleForCornerVeryLowDerby" type="integer">50</value>
+                        <value name="FeralThrottleForCornerVeryLowDrag" type="integer">50</value>
+                        <value name="FeralThrottleForCornerVeryLowDrift" type="integer">50</value>
+                        <value name="FeralThrottleForSlide" type="integer">0</value>
+                        <value name="FeralThrottleForSlideHigh" type="integer">50</value>
+                        <value name="FeralThrottleForSlideHighDerby" type="integer">50</value>
+                        <value name="FeralThrottleForSlideHighDrag" type="integer">50</value>
+                        <value name="FeralThrottleForSlideHighDrift" type="integer">50</value>
+                        <value name="FeralThrottleForSlideLow" type="integer">73</value>
+                        <value name="FeralThrottleForSlideLowDerby" type="integer">73</value>
+                        <value name="FeralThrottleForSlideLowDrag" type="integer">73</value>
+                        <value name="FeralThrottleForSlideLowDrift" type="integer">73</value>
+                        <value name="FeralThrottleForSlideMedium" type="integer">73</value>
+                        <value name="FeralThrottleForSlideMediumDerby" type="integer">73</value>
+                        <value name="FeralThrottleForSlideMediumDrag" type="integer">73</value>
+                        <value name="FeralThrottleForSlideMediumDrift" type="integer">73</value>
+                        <value name="FeralThrottleForSlideOff" type="integer">50</value>
+                        <value name="FeralThrottleForSlideOffDerby" type="integer">50</value>
+                        <value name="FeralThrottleForSlideOffDrag" type="integer">50</value>
+                        <value name="FeralThrottleForSlideOffDrift" type="integer">50</value>
+                        <value name="FeralThrottleForSlideVeryLow" type="integer">50</value>
+                        <value name="FeralThrottleForSlideVeryLowDerby" type="integer">50</value>
+                        <value name="FeralThrottleForSlideVeryLowDrag" type="integer">50</value>
+                        <value name="FeralThrottleForSlideVeryLowDrift" type="integer">50</value>
+                        <value name="FeralThrottleForTargetSpeed" type="integer">0</value>
+                        <value name="FeralThrottleForTargetSpeedHigh" type="integer">50</value>
+                        <value name="FeralThrottleForTargetSpeedHighDerby" type="integer">50</value>
+                        <value name="FeralThrottleForTargetSpeedHighDrag" type="integer">50</value>
+                        <value name="FeralThrottleForTargetSpeedHighDrift" type="integer">50</value>
+                        <value name="FeralThrottleForTargetSpeedLow" type="integer">80</value>
+                        <value name="FeralThrottleForTargetSpeedLowDerby" type="integer">80</value>
+                        <value name="FeralThrottleForTargetSpeedLowDrag" type="integer">80</value>
+                        <value name="FeralThrottleForTargetSpeedLowDrift" type="integer">80</value>
+                        <value name="FeralThrottleForTargetSpeedMedium" type="integer">80</value>
+                        <value name="FeralThrottleForTargetSpeedMediumDerby" type="integer">80</value>
+                        <value name="FeralThrottleForTargetSpeedMediumDrag" type="integer">80</value>
+                        <value name="FeralThrottleForTargetSpeedMediumDrift" type="integer">80</value>
+                        <value name="FeralThrottleForTargetSpeedOff" type="integer">50</value>
+                        <value name="FeralThrottleForTargetSpeedOffDerby" type="integer">50</value>
+                        <value name="FeralThrottleForTargetSpeedOffDrag" type="integer">50</value>
+                        <value name="FeralThrottleForTargetSpeedOffDrift" type="integer">50</value>
+                        <value name="FeralThrottleForTargetSpeedVeryLow" type="integer">50</value>
+                        <value name="FeralThrottleForTargetSpeedVeryLowDerby" type="integer">50</value>
+                        <value name="FeralThrottleForTargetSpeedVeryLowDrag" type="integer">50</value>
+                        <value name="FeralThrottleForTargetSpeedVeryLowDrift" type="integer">50</value>
+                        <value name="FeralThrottleMax" type="integer">0</value>
+                        <value name="FeralThrottleMaxHigh" type="integer">50</value>
+                        <value name="FeralThrottleMaxHighDerby" type="integer">50</value>
+                        <value name="FeralThrottleMaxHighDrag" type="integer">50</value>
+                        <value name="FeralThrottleMaxHighDrift" type="integer">50</value>
+                        <value name="FeralThrottleMaxLow" type="integer">100</value>
+                        <value name="FeralThrottleMaxLowDerby" type="integer">100</value>
+                        <value name="FeralThrottleMaxLowDrag" type="integer">100</value>
+                        <value name="FeralThrottleMaxLowDrift" type="integer">100</value>
+                        <value name="FeralThrottleMaxMedium" type="integer">100</value>
+                        <value name="FeralThrottleMaxMediumDerby" type="integer">100</value>
+                        <value name="FeralThrottleMaxMediumDrag" type="integer">100</value>
+                        <value name="FeralThrottleMaxMediumDrift" type="integer">100</value>
+                        <value name="FeralThrottleMaxOff" type="integer">50</value>
+                        <value name="FeralThrottleMaxOffDerby" type="integer">50</value>
+                        <value name="FeralThrottleMaxOffDrag" type="integer">50</value>
+                        <value name="FeralThrottleMaxOffDrift" type="integer">50</value>
+                        <value name="FeralThrottleMaxVeryLow" type="integer">50</value>
+                        <value name="FeralThrottleMaxVeryLowDerby" type="integer">50</value>
+                        <value name="FeralThrottleMaxVeryLowDrag" type="integer">50</value>
+                        <value name="FeralThrottleMaxVeryLowDrift" type="integer">50</value>
+                        <value name="FeralThrottleSliderDeadzone" type="binary">000000a09999b93f</value>
+                        <value name="FeralThrottleSliderNonLinearity" type="binary">000000403333e33f</value>
+                        <value name="FeralThrottleSliderSaturation" type="binary">000000000000e03f</value>
+                        <value name="FeralTiltAccelerationSaturation" type="binary">000000a09999d93f</value>
+                        <value name="FeralTiltAccelerationSaturationCustom" type="binary">000000a09999d93f</value>
+                        <value name="FeralTiltAccelerationSaturationPro" type="binary">00000060b81ee53f</value>
+                        <value name="FeralTiltAccelerationSaturationStandard" type="binary">000000a09999d93f</value>
+                        <value name="FeralTiltBrakeSaturation" type="binary">000000a09999d93f</value>
+                        <value name="FeralTiltBrakeSaturationCustom" type="binary">000000a09999d93f</value>
+                        <value name="FeralTiltBrakeSaturationPro" type="binary">00000040e17ae43f</value>
+                        <value name="FeralTiltBrakeSaturationStandard" type="binary">000000a09999d93f</value>
+                        <value name="FeralTiltDeadzone" type="integer">4</value>
+                        <value name="FeralTiltDeadzoneCustom" type="binary">0000000000001040</value>
+                        <value name="FeralTiltDeadzonePro" type="binary">000000e077d3eb3f</value>
+                        <value name="FeralTiltDeadzoneStandard" type="binary">0000000000001440</value>
+                        <value name="FeralTiltForceTouch" type="integer">0</value>
+                        <value name="FeralTiltForceTouchCustom" type="integer">0</value>
+                        <value name="FeralTiltForceTouchPro" type="integer">0</value>
+                        <value name="FeralTiltForceTouchStandard" type="integer">0</value>
+                        <value name="FeralTiltGearControl" type="integer">1</value>
+                        <value name="FeralTiltGearControlCustom" type="integer">1</value>
+                        <value name="FeralTiltGearControlPro" type="integer">1</value>
+                        <value name="FeralTiltGearControlStandard" type="integer">1</value>
+                        <value name="FeralTiltInvertFlickGears" type="integer">0</value>
+                        <value name="FeralTiltInvertFlickGearsCustom" type="integer">0</value>
+                        <value name="FeralTiltInvertFlickGearsPro" type="integer">0</value>
+                        <value name="FeralTiltInvertFlickGearsStandard" type="integer">0</value>
+                        <value name="FeralTiltNonLinearity" type="binary">0000000000000000</value>
+                        <value name="FeralTiltNonLinearityCustom" type="binary">0000000000000000</value>
+                        <value name="FeralTiltNonLinearityPro" type="binary">000000004fccb23f</value>
+                        <value name="FeralTiltNonLinearityStandard" type="binary">0000000000000000</value>
+                        <value name="FeralTiltSaturation" type="integer">45</value>
+                        <value name="FeralTiltSaturationCustom" type="binary">0000000000804640</value>
+                        <value name="FeralTiltSaturationPro" type="binary">0000002016b24940</value>
+                        <value name="FeralTiltSaturationStandard" type="binary">0000000000805640</value>
+                        <value name="FeralTiltSensitivity" type="integer">20</value>
+                        <value name="FeralTouchDeadzone" type="binary">00000000def40e40</value>
+                        <value name="FeralTouchDeadzoneCustom" type="binary">00000000def40e40</value>
+                        <value name="FeralTouchDeadzonePro" type="binary">00000080d39b1a40</value>
+                        <value name="FeralTouchDeadzoneStandard" type="binary">00000000def40e40</value>
+                        <value name="FeralTouchNonLinearity" type="binary">000000c0af91e93f</value>
+                        <value name="FeralTouchNonLinearityCustom" type="binary">000000c0af91e93f</value>
+                        <value name="FeralTouchNonLinearityPro" type="binary">000000e07fb9d63f</value>
+                        <value name="FeralTouchNonLinearityStandard" type="binary">000000c0af91e93f</value>
+                        <value name="FeralTouchSaturation" type="binary">00000020b2506440</value>
+                        <value name="FeralTouchSaturationCustom" type="binary">00000020b2506440</value>
+                        <value name="FeralTouchSaturationPro" type="binary">00000000f5a66340</value>
+                        <value name="FeralTouchSaturationStandard" type="binary">00000020b2506440</value>
+                        <value name="FeralTouchSensitivity" type="integer">85</value>
+                        <value name="FeralTouchWheelRatio" type="binary">000000000000e83f</value>
+                        <value name="FeralTrailerMode" type="integer">0</value>
+                        <value name="FeralUIResolutionWarningThreshold" type="integer">3686400</value>
+                        <value name="FeralUseFXAA" type="integer">0</value>
+                        <value name="FeralVeryEasyAICatchupModifierHigh" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierHighDerby" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierHighDrag" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierHighDrift" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierLow" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierLowDerby" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierLowDrag" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierLowDrift" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierMedium" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierMediumDerby" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierMediumDrag" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierMediumDrift" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierOff" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierOffDerby" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierOffDrag" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierOffDrift" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierVeryLow" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierVeryLowDerby" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierVeryLowDrag" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAICatchupModifierVeryLowDrift" type="binary">666666666666e63f</value>
+                        <value name="FeralVeryEasyAIEnabledHigh" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledHighDerby" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledHighDrag" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledHighDrift" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledLow" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledLowDerby" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledLowDrag" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledLowDrift" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledMedium" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledMediumDerby" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledMediumDrag" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledMediumDrift" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledOff" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledOffDerby" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledOffDrag" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledOffDrift" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledVeryLow" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledVeryLowDerby" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledVeryLowDrag" type="integer">1</value>
+                        <value name="FeralVeryEasyAIEnabledVeryLowDrift" type="integer">1</value>
+                        <value name="FeralWheelTouchAccelerationSaturation" type="binary">0000008014aee73f</value>
+                        <value name="FeralWheelTouchAccelerationSaturationCustom" type="binary">0000008014aee73f</value>
+                        <value name="FeralWheelTouchAccelerationSaturationPro" type="binary">000000a09999d93f</value>
+                        <value name="FeralWheelTouchAccelerationSaturationStandard" type="binary">0000008014aee73f</value>
+                        <value name="FeralWheelTouchBrakeSaturation" type="binary">000000a09999d93f</value>
+                        <value name="FeralWheelTouchBrakeSaturationCustom" type="binary">000000a09999d93f</value>
+                        <value name="FeralWheelTouchBrakeSaturationPro" type="binary">000000a09999d93f</value>
+                        <value name="FeralWheelTouchBrakeSaturationStandard" type="binary">000000a09999d93f</value>
+                        <value name="FeralWheelTouchForceTouch" type="integer">0</value>
+                        <value name="FeralWheelTouchForceTouchCustom" type="integer">0</value>
+                        <value name="FeralWheelTouchForceTouchPro" type="integer">0</value>
+                        <value name="FeralWheelTouchForceTouchStandard" type="integer">0</value>
+                        <value name="FeralWheelTouchGearControl" type="integer">0</value>
+                        <value name="FeralWheelTouchInvertFlickGears" type="integer">0</value>
+                        <value name="FeralWheelTouchInvertFlickGearsCustom" type="integer">0</value>
+                        <value name="FeralWheelTouchInvertFlickGearsPro" type="integer">0</value>
+                        <value name="FeralWheelTouchInvertFlickGearsStandard" type="integer">0</value>
+                        <value name="FixedScreenHeight" type="integer">720</value>
+                        <value name="FlickRecogniserVer" type="integer">1</value>
+                        <value name="ForcePerformanceModeInMenus" type="integer">1</value>
+                        <value name="ForceTouchControls" type="integer">1</value>
+                        <value name="FullScreen" type="integer">1</value>
+                        <value name="GameInstallVersion" type="integer">17433088</value>
+                        <value name="GameInstallVersionString" type="string">GRID™ Autosport v1.10.2</value>
+                        <value name="GameInstallVersionWithStages" type="integer">27623424</value>
+                        <value name="GameOptionsDialogShouldShow" type="integer">0</value>
+                        <value name="GameOptionsDialogShown" type="integer">1</value>
+                        <value name="GameSelected" type="integer">1</value>
+                        <value name="GameVersionNew" type="integer">17433856</value>
+                        <value name="GameVersionString" type="string">GRID™ Autosport v1.10.5</value>
+                        <value name="gfxconfig_advanced_fog" type="string">on</value>
+                        <value name="gfxconfig_advanced_lighting" type="string">off</value>
+                        <value name="gfxconfig_ai_count" type="string">low</value>
+                        <value name="gfxconfig_anisotropic_filtering" type="string">ultrahigh</value>
+                        <value name="gfxconfig_avsm" type="string">off</value>
+                        <value name="gfxconfig_car_reflection" type="string">high</value>
+                        <value name="gfxconfig_cloth" type="string">high</value>
+                        <value name="gfxconfig_crowd" type="string">high</value>
+                        <value name="gfxconfig_default_multisampling" type="string">off</value>
+                        <value name="gfxconfig_default_preset_name" type="string">high</value>
+                        <value name="gfxconfig_dynamic_ambient_occ" type="string">high</value>
+                        <value name="gfxconfig_dynamic_ambient_occ_soft" type="string">on</value>
+                        <value name="gfxconfig_global_illumination" type="string">on</value>
+                        <value name="gfxconfig_groundCover" type="string">on</value>
+                        <value name="gfxconfig_high_advanced_fog" type="string">on</value>
+                        <value name="gfxconfig_high_advanced_lighting" type="string">off</value>
+                        <value name="gfxconfig_high_ai_count" type="string">low</value>
+                        <value name="gfxconfig_high_anisotropic_filtering" type="string">ultrahigh</value>
+                        <value name="gfxconfig_high_avsm" type="string">off</value>
+                        <value name="gfxconfig_high_car_reflection" type="string">high</value>
+                        <value name="gfxconfig_high_cloth" type="string">high</value>
+                        <value name="gfxconfig_high_crowd" type="string">high</value>
+                        <value name="gfxconfig_high_dynamic_ambient_occ" type="string">high</value>
+                        <value name="gfxconfig_high_dynamic_ambient_occ_soft" type="string">on</value>
+                        <value name="gfxconfig_high_global_illumination" type="string">on</value>
+                        <value name="gfxconfig_high_groundCover" type="string">on</value>
+                        <value name="gfxconfig_high_intel_aoit" type="string">off</value>
+                        <value name="gfxconfig_high_max_fps" type="integer">60</value>
+                        <value name="gfxconfig_high_mirrors" type="string">high</value>
+                        <value name="gfxconfig_high_multisampling" type="string">off</value>
+                        <value name="gfxconfig_high_night_lighting" type="string">high</value>
+                        <value name="gfxconfig_high_objects" type="string">high</value>
+                        <value name="gfxconfig_high_particles" type="string">high</value>
+                        <value name="gfxconfig_high_second_screen" type="string">high</value>
+                        <value name="gfxconfig_high_shaders" type="string">high</value>
+                        <value name="gfxconfig_high_shadows" type="string">high</value>
+                        <value name="gfxconfig_high_skidmarks" type="string">on</value>
+                        <value name="gfxconfig_high_textures" type="string">high</value>
+                        <value name="gfxconfig_high_track" type="string">high</value>
+                        <value name="gfxconfig_high_trees" type="string">high</value>
+                        <value name="gfxconfig_high_vehicles" type="string">high</value>
+                        <value name="gfxconfig_high_voice_count" type="string">high</value>
+                        <value name="gfxconfig_high_water" type="string">high</value>
+                        <value name="gfxconfig_high_window_scale" type="integer">80</value>
+                        <value name="gfxconfig_intel_aoit" type="string">off</value>
+                        <value name="gfxconfig_max_fps" type="integer">60</value>
+                        <value name="gfxconfig_mirrors" type="string">high</value>
+                        <value name="gfxconfig_multisampling" type="string">off</value>
+                        <value name="gfxconfig_night_lighting" type="string">high</value>
+                        <value name="gfxconfig_objects" type="string">high</value>
+                        <value name="gfxconfig_particles" type="string">high</value>
+                        <value name="gfxconfig_preset_name" type="string">custom</value>
+                        <value name="gfxconfig_second_screen" type="string">high</value>
+                        <value name="gfxconfig_shaders" type="string">high</value>
+                        <value name="gfxconfig_shadows" type="string">high</value>
+                        <value name="gfxconfig_skidmarks" type="string">on</value>
+                        <value name="gfxconfig_textures" type="string">high</value>
+                        <value name="gfxconfig_track" type="string">high</value>
+                        <value name="gfxconfig_trees" type="string">high</value>
+                        <value name="gfxconfig_vehicles" type="string">high</value>
+                        <value name="gfxconfig_voice_count" type="string">high</value>
+                        <value name="gfxconfig_water" type="string">high</value>
+                        <value name="gfxconfigpowersaver_advanced_fog" type="string">off</value>
+                        <value name="gfxconfigpowersaver_advanced_lighting" type="string">off</value>
+                        <value name="gfxconfigpowersaver_ai_count" type="string">low</value>
+                        <value name="gfxconfigpowersaver_anisotropic_filtering" type="string">off</value>
+                        <value name="gfxconfigpowersaver_avsm" type="string">off</value>
+                        <value name="gfxconfigpowersaver_car_reflection" type="string">low</value>
+                        <value name="gfxconfigpowersaver_cloth" type="string">high</value>
+                        <value name="gfxconfigpowersaver_crowd" type="string">low</value>
+                        <value name="gfxconfigpowersaver_dynamic_ambient_occ" type="string">ultralow</value>
+                        <value name="gfxconfigpowersaver_dynamic_ambient_occ_soft" type="string">off</value>
+                        <value name="gfxconfigpowersaver_global_illumination" type="string">off</value>
+                        <value name="gfxconfigpowersaver_groundCover" type="string">off</value>
+                        <value name="gfxconfigpowersaver_intel_aoit" type="string">off</value>
+                        <value name="gfxconfigpowersaver_max_fps" type="integer">30</value>
+                        <value name="gfxconfigpowersaver_mirrors" type="string">off</value>
+                        <value name="gfxconfigpowersaver_multisampling" type="string">off</value>
+                        <value name="gfxconfigpowersaver_night_lighting" type="string">low</value>
+                        <value name="gfxconfigpowersaver_objects" type="string">medium</value>
+                        <value name="gfxconfigpowersaver_particles" type="string">off</value>
+                        <value name="gfxconfigpowersaver_preset_name" type="string">custom</value>
+                        <value name="gfxconfigpowersaver_second_screen" type="string">low</value>
+                        <value name="gfxconfigpowersaver_shaders" type="string">ultralow</value>
+                        <value name="gfxconfigpowersaver_shadows" type="string">ultralow</value>
+                        <value name="gfxconfigpowersaver_skidmarks" type="string">on</value>
+                        <value name="gfxconfigpowersaver_textures" type="string">high</value>
+                        <value name="gfxconfigpowersaver_track" type="string">medium</value>
+                        <value name="gfxconfigpowersaver_trees" type="string">medium</value>
+                        <value name="gfxconfigpowersaver_vehicles" type="string">medium</value>
+                        <value name="gfxconfigpowersaver_voice_count" type="string">low</value>
+                        <value name="gfxconfigpowersaver_water" type="string">low</value>
+                        <value name="gfxconfigpowersaver_window_scale" type="integer">80</value>
+                        <value name="HapticDeviceStrength" type="string">0.4</value>
+                        <value name="HapticDeviceStrength_google" type="string">0.3</value>
+                        <value name="HapticDeviceStrength_samsung" type="string">0.3</value>
+                        <value name="HelpScreenMinimumWidthInches" type="integer">4</value>
+                        <value name="HelpScreenReferenceDPI" type="integer">150</value>
+                        <value name="LiveWindowResizePercentage" type="integer">25</value>
+                        <value name="LiveWindowResizeThreshold" type="integer">3</value>
+                        <value name="MaxFramesPerSecond" type="integer">0</value>
+                        <value name="MinWindowedHeight" type="integer">300</value>
+                        <value name="MinWindowedWidth" type="integer">400</value>
+                        <value name="MobileGraphicBoost" type="integer">1</value>
+                        <value name="MobileParticlesLevel" type="integer">0</value>
+                        <value name="MobileShaderBoost" type="integer">0</value>
+                        <value name="MultisampleResolveOnStoreEnabled" type="integer">1</value>
+                        <value name="NextReviewPrompt" type="integer">30</value>
+                        <value name="NonInteractiveCrashReporter" type="integer">0</value>
+                        <value name="OptimizeLoadStoreActions" type="integer">1</value>
+                        <value name="OverrideInterferenceEffect" type="integer">1</value>
+                        <value name="PauseMoviesOnPause" type="integer">1</value>
+                        <value name="PauseOnSuspend" type="integer">1</value>
+                        <value name="PauseSoundOnPause" type="integer">1</value>
+                        <value name="PauseTimersOnPause" type="integer">1</value>
+                        <value name="RenderUnderNotch" type="integer">1</value>
+                        <value name="ScaleOrnamentLOD" type="integer">0</value>
+                        <value name="ScreenDensityMax" type="integer">320</value>
+                        <value name="ScreenH" type="integer">720</value>
+                        <value name="ScreenW" type="integer">1280</value>
+                        <value name="SeenSpecificationAlertUUIDDefaultDeadzone16rc2" type="integer">1</value>
+                        <value name="SeenSpecificationAlertUUIDDefaultHardwareSpecification147rc4V2" type="integer">1</value>
+                        <value name="SeenSpecificationAlertUUIDDefaultHardwareSpecification_1_10_5RC1" type="integer">1</value>
+                        <value name="SeenSpecificationAlertUUIDDisableCrashReportPopUp161RC1" type="integer">1</value>
+                        <value name="SeenSpecificationAlertUUIDhaptic_device_strength_19R30" type="integer">1</value>
+                        <value name="SeenSpecificationAlertUUIDhighmemory_load_times_16RC7" type="integer">1</value>
+                        <value name="SeenSpecificationAlertUUIDInitialReviewCount147rc4" type="integer">1</value>
+                        <value name="SeenSpecificationAlertUUIDMaliG710HardwareSpecifications_1_10_5RC1" type="integer">1</value>
+                        <value name="SeenSpecificationAlertUUIDMaliG710HardwareSpecifications_1_10_RC5" type="integer">1</value>
+                        <value name="SeenSpecificationAlertUUIDSetFeralTestServerMPPatch" type="integer">1</value>
+                        <value name="SeenVersion122Update" type="integer">1</value>
+                        <value name="ShadowBias" type="string">0.0004</value>
+                        <value name="ShadowMaskDivisor" type="integer">2</value>
+                        <value name="ShowFeralGUI" type="integer">0</value>
+                        <value name="SpecificationFirstLaunchCheck" type="integer">1</value>
+                        <value name="SpecificationLastUpdateCheckTime" type="binary">09d78c6800000000</value>
+                        <value name="SpecificationUpdateURL" type="string">https://u1.feralinteractive.com/autoupdate/gridautosport/specifications_android_1_10_5.xml</value>
+                        <value name="SuperSampleBase" type="integer">8</value>
+                        <value name="SuperSampleLevel" type="integer">8</value>
+                        <value name="SuperSampleScale" type="integer">8</value>
+                        <value name="ThreadedASTCEncoding" type="integer">1</value>
+                        <value name="TouchUIDeadZone" type="integer">5</value>
+                        <value name="UIReduceTextShadow" type="integer">1</value>
+                        <value name="UltraLowInterior" type="integer">1</value>
+                        <value name="UpdateServerDomain" type="string">u1.feralinteractive.com</value>
+                        <value name="UpdateServerPath" type="string">/autoupdate/</value>
+                        <value name="UpdateServerProtocol" type="string">https://</value>
+                        <value name="Use3DWarmerAnalytics" type="integer">0</value>
+                        <value name="UseDriveSaveSync" type="integer">1</value>
+                        <value name="UseGoogleSignIn" type="integer">1</value>
+                        <value name="UseMultipleGestureRecognisers" type="integer">1</value>
+                        <value name="UseOfflineEvents" type="integer">1</value>
+                        <value name="UseUltraLowBloomPrePass" type="integer">1</value>
+                        <value name="UseUltraLowParticlesBlending" type="integer">1</value>
+                        <value name="WideProximityCockpitCamera" type="integer">1</value>
+                        <value name="WwisePluginSafetyFixes" type="integer">1</value>
+                        <value name="WwiseSoundBundlePluginSoundCutFix" type="integer">1</value>
+                        <key name="DynamicResolutionScaling">
+                            <value name="CPUFrameTimeSmoothing" type="integer">10</value>
+                            <value name="DropDelayFrames" type="integer">2</value>
+                            <value name="DropTimeMargin" type="binary">000000000000f83f</value>
+                            <value name="Enable" type="integer">1</value>
+                            <value name="FastDropTimeMargin" type="binary">000000000000f8bf</value>
+                            <value name="FPSTarget" type="binary">0000000000003e40</value>
+                            <value name="MinScaling" type="binary">9a9999999999e93f</value>
+                            <value name="RaiseDelayFrames" type="integer">6</value>
+                            <value name="RaiseDelayFramesInRace" type="integer">120</value>
+                            <value name="RaiseTimeMargin" type="binary">000000000000f03f</value>
+                            <value name="StepCount" type="integer">5</value>
+                            <value name="UseGPUTime" type="integer">1</value>
+                        </key>
+                        <key name="SpecificationAlerts">
+                            <value name="ReminderToConnectUUID" type="integer">1</value>
+                        </key>
+                    </key>
+                </key>
+            </key>
+            <key name="IndirectX">
+                <key name="Direct3D">
+                    <key name="Config">
+                        <value name="AllowSM5" type="integer">1</value>
+                        <value name="CompactFeralGUI" type="integer">0</value>
+                        <value name="DisablePositionFixup" type="integer">1</value>
+                        <value name="EnableF3DWarmer" type="integer">1</value>
+                        <value name="EnableIdxD3D11Threaded" type="integer">1</value>
+                        <value name="EnableShaderDeduplicator" type="integer">1</value>
+                        <value name="LazyShaderCreation" type="integer">1</value>
+                        <value name="MaxFramesPerSecond" type="integer">60</value>
+                        <value name="ShowFeralGUI" type="integer">0</value>
+                        <value name="UseFastFMA" type="integer">1</value>
+                        <value name="UseImmediateDiscard" type="integer">1</value>
+                        <value name="UseSeparatePresentSubmission" type="integer">1</value>
+                        <value name="VulkanDescriptorSetCleanup" type="integer">0</value>
+                        <value name="VulkanRenderToBackbuffer" type="integer">1</value>
+                        <value name="VulkanRobustBufferAccess" type="integer">0</value>
+                        <value name="VulkanUseSeparateSubmitThread" type="integer">1</value>
+                    </key>
+                </key>
+                <key name="DirectInput">
+                    <key name="Config">
+                        <value name="DisableDirectInputGamepads" type="integer">1</value>
+                    </key>
+                </key>
+            </key>
+            <key name="MacDoze">
+                <key name="Config">
+                    <value name="ClearSavesEnabled" type="integer">0</value>
+                    <value name="DisableClearSaveDataAlert" type="integer">0</value>
+                    <value name="InitialWindowBackgroundColor" type="integer">-16777216</value>
+                </key>
+            </key>
+            <key name="SystemMonitor">
+                <key name="Config">
+                    <value name="AppVersion" type="integer">17433856</value>
+                    <value name="Backgrounded" type="integer">1</value>
+                    <value name="OSVersion" type="string">16.0</value>
+                    <value name="QuitIntentional" type="integer">0</value>
+                </key>
+            </key>
+        </key>
+    </key>
+    <key name="HKEY_LOCAL_MACHINE">
+        <key name="Hardware">
+            <key name="Description">
+                <key name="System">
+                    <key name="CentralProcessor">
+                        <key name="0">
+                            <value name="Identifier" type="string"></value>
+                            <value name="ProcessorNameString" type="string"></value>
+                            <value name="VendorIdentifier" type="string"></value>
+                            <value name="~MHz" type="integer">1803</value>
+                        </key>
+                        <key name="1">
+                            <value name="Identifier" type="string"></value>
+                            <value name="ProcessorNameString" type="string"></value>
+                            <value name="VendorIdentifier" type="string"></value>
+                            <value name="~MHz" type="integer">1803</value>
+                        </key>
+                        <key name="2">
+                            <value name="Identifier" type="string"></value>
+                            <value name="ProcessorNameString" type="string"></value>
+                            <value name="VendorIdentifier" type="string"></value>
+                            <value name="~MHz" type="integer">1803</value>
+                        </key>
+                        <key name="3">
+                            <value name="Identifier" type="string"></value>
+                            <value name="ProcessorNameString" type="string"></value>
+                            <value name="VendorIdentifier" type="string"></value>
+                            <value name="~MHz" type="integer">1803</value>
+                        </key>
+                        <key name="4">
+                            <value name="Identifier" type="string"></value>
+                            <value name="ProcessorNameString" type="string"></value>
+                            <value name="VendorIdentifier" type="string"></value>
+                            <value name="~MHz" type="integer">1803</value>
+                        </key>
+                        <key name="5">
+                            <value name="Identifier" type="string"></value>
+                            <value name="ProcessorNameString" type="string"></value>
+                            <value name="VendorIdentifier" type="string"></value>
+                            <value name="~MHz" type="integer">1803</value>
+                        </key>
+                        <key name="6">
+                            <value name="Identifier" type="string"></value>
+                            <value name="ProcessorNameString" type="string"></value>
+                            <value name="VendorIdentifier" type="string"></value>
+                            <value name="~MHz" type="integer">1803</value>
+                        </key>
+                        <key name="7">
+                            <value name="Identifier" type="string"></value>
+                            <value name="ProcessorNameString" type="string"></value>
+                            <value name="VendorIdentifier" type="string"></value>
+                            <value name="~MHz" type="integer">1803</value>
+                        </key>
+                    </key>
+                </key>
+            </key>
+        </key>
+        <key name="Software">
+        </key>
+    </key>
+    <key name="HKEY_USERS">
+    </key>
+</registry>
