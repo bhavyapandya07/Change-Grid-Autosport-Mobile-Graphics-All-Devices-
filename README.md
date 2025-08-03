@@ -123,9 +123,9 @@ If your version is different, edit the settings manually instead of replacing th
 
 ## 🎯 Device Recommendations
 
-**High-End Devices:** Use all settings as shown above  
-**Mid-Range (Pixel 7a):** Use 720p settings as provided  
-**Budget Devices:** Change quality settings to `medium` or `low`, set FPS to `30`
+**High-End Devices:** Change GFX settings to set RES to `1080p`, set Quality Setting to `ultrahigh` or `high`, set FPS to `144`, `120` or `90`
+**Mid-Range (Pixel 7a):** Change GFX settings to set RES to `720p`, set Quality Setting to `high` or `medium`, set FPS to `90` or `60`
+**Budget Devices:** Change GFX settings to set RES to `600p`, set Quality Setting to `medium` or `low`, set FPS to `30`
 
 ## ❓ Quick FAQ
 
