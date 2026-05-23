@@ -1,8 +1,9 @@
 # Grid Autosport Mobile Graphics Optimizer for Android
-
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://android.com)
 [![No Root](https://img.shields.io/badge/Root-Not%20Required-blue.svg)](https://github.com)
 [![Tested](https://img.shields.io/badge/Tested-Pixel%207a-orange.svg)](https://github.com)
+
+<img width="2400" height="1080" alt="image" src="https://github.com/user-attachments/assets/e49e1232-75a5-4b3b-9575-5a592daf619c" />
 
 Simple guide to modify [Grid Autosport](https://play.google.com/store/apps/details?id=com.feralinteractive.gridas&hl=en_IN) graphics settings on Android devices without root access.
 
